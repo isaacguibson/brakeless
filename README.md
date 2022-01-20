@@ -29,9 +29,9 @@ The player can switch between the lanes, but looses if an enemy car crash on its
 
 ## Screens
 
-[Start Screen](images/tela_inicial)
-[Day Back](images/dia_camera_tras)
-[Night Back](images/noite_camera_tras)
-[Menu Options](images/menu)
-[Day Top](images/dia_camera_cima)
-[Night Top](images/noite_camera_cima)
+![image](https://github.com/isaacguibson/brakeless/blob/master/images/tela_inicial.png)
+![image](https://github.com/isaacguibson/brakeless/blob/master/images/dia_camera_tras.png)
+![image](https://github.com/isaacguibson/brakeless/blob/master/images/noite_camera_tras.png)
+![image](https://github.com/isaacguibson/brakeless/blob/master/images/menu.png)
+![image](https://github.com/isaacguibson/brakeless/blob/master/images/dia_camera_cima.png)
+![image](https://github.com/isaacguibson/brakeless/blob/master/images/noite_camera_cima.png)
